@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/React-Quiz-App1/static/js/main.d01c219d.chunk.js",
+    "main.js.map": "/React-Quiz-App1/static/js/main.d01c219d.chunk.js.map",
+    "runtime-main.js": "/React-Quiz-App1/static/js/runtime-main.60133ec9.js",
+    "runtime-main.js.map": "/React-Quiz-App1/static/js/runtime-main.60133ec9.js.map",
+    "static/js/2.579c5636.chunk.js": "/React-Quiz-App1/static/js/2.579c5636.chunk.js",
+    "static/js/2.579c5636.chunk.js.map": "/React-Quiz-App1/static/js/2.579c5636.chunk.js.map",
+    "index.html": "/React-Quiz-App1/index.html",
+    "precache-manifest.2955fc6d314a82a9d1f2cbfcfe725957.js": "/React-Quiz-App1/precache-manifest.2955fc6d314a82a9d1f2cbfcfe725957.js",
+    "service-worker.js": "/React-Quiz-App1/service-worker.js",
+    "static/js/2.579c5636.chunk.js.LICENSE.txt": "/React-Quiz-App1/static/js/2.579c5636.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan-unsplash.jpg": "/React-Quiz-App1/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60133ec9.js",
+    "static/js/2.579c5636.chunk.js",
+    "static/js/main.d01c219d.chunk.js"
+  ]
+}
